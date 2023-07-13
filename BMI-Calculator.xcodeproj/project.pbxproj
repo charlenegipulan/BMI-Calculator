@@ -56,6 +56,9 @@
 		735D465E2A5FCD7200278FC8 /* BMI-Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				735D46752A5FCD8800278FC8 /* Controller */,
+				735D46742A5FCD8100278FC8 /* View */,
+				735D46732A5FCD7C00278FC8 /* Model */,
 				735D465F2A5FCD7200278FC8 /* AppDelegate.swift */,
 				735D46612A5FCD7200278FC8 /* SceneDelegate.swift */,
 				735D46632A5FCD7200278FC8 /* ViewController.swift */,
@@ -65,6 +68,27 @@
 				735D466D2A5FCD7400278FC8 /* Info.plist */,
 			);
 			path = "BMI-Calculator";
+			sourceTree = "<group>";
+		};
+		735D46732A5FCD7C00278FC8 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		735D46742A5FCD8100278FC8 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		735D46752A5FCD8800278FC8 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
